@@ -11,4 +11,4 @@ The data we used is confidential therefore can't be uploaded here.
 ![occupiedrooms_forcast](https://user-images.githubusercontent.com/27776652/32145672-a6c219c4-bc9a-11e7-9ac9-258c6bbe57b6.png)
 ![revpar_forcast](https://user-images.githubusercontent.com/27776652/32145673-a6d32c96-bc9a-11e7-9ee3-6ce3978297c8.png)
 ### Step 4 , compare the results with the actual numbers(reserved some data as test set in step 1).
-![monthly_adr_ts](https://user-images.githubusercontent.com/27776652/32145667-a2e66080-bc9a-11e7-9ed1-77f0afc9d6b9.PNG)
+![mape of hotel demand forecast](https://user-images.githubusercontent.com/27776652/32145572-f34544d0-bc98-11e7-9270-6165749d1ea3.JPG)
