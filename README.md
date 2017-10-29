@@ -1,5 +1,5 @@
 # chicagohotels
-The data we used is confidential therefore can't be uploaded here.
+The data is confidential therefore can't be uploaded here.
 
 ### Step 1 , clean the data and save the relevant data into csv file.
 ### Step 2 , use RStudio to analyze the time series data.
