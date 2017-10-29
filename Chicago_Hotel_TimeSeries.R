@@ -34,7 +34,7 @@ normalTest(ADRts,method=c("jb"))
 acf(as.vector(ADRts),lag.max=30, main="Fig3_1(a) ACF of ADR TS")
 pacf(as.vector(ADRts),lag.max=30, main="PACF of time series data")
 
-#Apply first difference
+#Apply first difference 
 dx=diff(ADRts) 
 acf(as.vector(dx),lag.max=50, main="Fig3_1(b) ACF of 1st diff ADR")
 pacf(as.vector(dx),lag.max=50, main="PACF of time series data")
